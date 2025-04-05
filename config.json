@@ -1,0 +1,14 @@
+{
+  "showSidebar": true,
+  "showEditLink": true,
+  "nav": {
+    "title": "An unofficial guide to Landmark Forum and work of Werner Erhard",
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub",
+        "href": "https://github.com/rufuspollock/landmark"
+      }
+    ]
+  }
+}
