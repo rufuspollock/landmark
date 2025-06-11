@@ -1,13 +1,22 @@
-# An unofficial guide to the work of Werner Erhard and Landmark
+---
+description: This is an unofficial guide to the work of Werner Erhard and Landmark Education/Worldwide https://www.landmarkworldwide.com.
+---
+
+# An unofficial guide to Landmark Forum and the work of Werner Erhard and Landmark
 
 This is an unofficial guide to the work of Werner Erhard and Landmark Education/Worldwide https://www.landmarkworldwide.com.
 
-## 📥 Inbox
+This site is a markdown-based wiki powered by [Flowershow 💐](https://flowershow.app/) and [[CONTRIBUTE|contributions are welcome]].
 
-*Stuff to process*
+## Getting started
 
-- Useful glossary: https://en.wikiversity.org/wiki/User:Abd/Landmark_Education/Abd/Glossary
-- Other pages there on Landmark which could be useful: https://en.wikiversity.org/wiki/Category:Landmark_Forum
+- [[Landmark Forum|What is the Landmark Forum?]]
+    - [[Is the Landmark Forum any good?]]
+    - [[Is Landmark a cult?]]
+    - [[Is Landmark a Pyramid or MLM (multi-level marketing scheme)]]
+    - [[Is Landmark in it for the money?]]
+    - [[Who owns Landmark?]]
+- 📺 Watch [[Transformation documentary|Transformation: The Life and Legacy of Werner Erhard]], a feature length documentary about [[Werner Erhard]], the creator of est and the Landmark Forum. A good background and sense of the approach.
 
 ## Notes
 
@@ -22,4 +31,6 @@ This is an unofficial guide to the work of Werner Erhard and Landmark Education/
 
 Books, articles etc.
 
-https://www.zotero.org/groups/1488090/life-itself/collections/5SZW9N7B
+See [[Bibliography]]
+
+- [[Bartley biography]]

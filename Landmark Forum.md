@@ -1,0 +1,3 @@
+The Landmark Forum is a three-day personal development seminar offered by Landmark Worldwide, a company that evolved from [[Werner Erhard]]’s earlier programs such as est (Erhard Seminars Training) in the 1970s. It aims to help participants achieve breakthroughs in personal effectiveness, relationships, and self-understanding through a structured series of lectures, guided dialogues, and sharing exercises.
+
+Scholars and journalists have described it as a form of “large-group awareness training” (LGAT), emphasizing cognitive reframing and ontological inquiry (cf. Salerno 2005; Langone 1993). Critics have raised concerns about its intense methods and potential psychological pressure, while proponents argue it offers profound transformation and empowerment.
