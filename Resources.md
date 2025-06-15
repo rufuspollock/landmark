@@ -6,3 +6,4 @@ Existing websites about est, Werner Erhard, Landmark
     - http://www.erhardseminarstraining.com/articles/
 - https://www.wernererhardfoundation.org/
 - http://www.wernererhard.com/
+- https://wernererhardideas.com/
