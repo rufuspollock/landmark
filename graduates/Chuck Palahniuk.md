@@ -1,0 +1,5 @@
+Author of Fight Club. https://en.wikipedia.org/wiki/Chuck_Palahniuk
+
+> In 1989, a man named Chuck Palahniuk enrolled in a Landmark Forum workshop. He was twenty-six years old and, like many of his co-participants, struggling with his life and what to do with it. Despite his lack of vocational direction, Palahniuk had no problem navigating his way to the closest exit after the first forty-five minutes of the workshop, repelled by the program’s cultiness and rigidity. Later that day, however, he returned to complete the training, and that night began writing what would eventually become his best-selling book, _Fight Club_—a sequence of events which suggests the Landmark Forum was more successful in helping Palahniuk redirect his life than a barrage of inconclusive personality tests, forlorn meetings with career counselors, or years of expensive psychoanalysis.
+
+Source: [[Clippings/A Week With the Believer Est, Werner Erhard,  and the Corporatization  of Self-Help.  (2003)|A Week With the Believer Est, Werner Erhard,  and the Corporatization  of Self-Help.  (2003)]]

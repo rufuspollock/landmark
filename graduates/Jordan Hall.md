@@ -1,0 +1,5 @@
+Jordan Hall implies he has done Landmark in this mixed endorsement on the Future Thinkers podcast in 2018 https://futurethinkers.org/jordan-greenhall-deep-code/
+
+> [00:27:00] There’s a lot of practices that are good. Most of them have lots of problems, as well. Let’s take, for example, what’s it called… Landmark. Landmark form is a nice, good, central example. There are aspects of landmark that are very effective in helping an individual become more conscious of the way their own mind constrains the way they can think.
+> 
+> One of the things that you might do is go to landmark, however, landmark as a process grew up in the context of this old game. [00:27:30] There’s a lot of multi-level marketing/jerking people around into spending more money that has also become part of landmark. If you were to engage with that, be mindful of the parts that are good and be mindful of the parts that aren’t.

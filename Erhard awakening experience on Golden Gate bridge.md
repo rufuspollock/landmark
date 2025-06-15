@@ -6,7 +6,7 @@ Tells it in [[Transformation documentary]] at [31:45](https://youtu.be/6NsWGb0B7
 
 ## Description from Biography
 
-In [[Bartley biography]] p.166
+**From [[Bartley biography]] p.166**
 
 > Somewhere between Corte Madera and the Golden Gate Bridge, the man in the car on the freeway was transformed: the individual who emerged from the Mustang in San Francisco a half hour later was a different kind of being. Werner had had an extraordinary experience, and found what he had been searching for, in one discipline after another, for nearly eight years.
 > 

@@ -9,6 +9,8 @@ description: "Note: The views expressed on this blog are my personal views and a
 tags:
   - "clippings"
 ---
+*This is an archive copy of an article by Tiago Forte*
+
 ![](https://cdn-images-1.medium.com/max/800/1*RIayHlkW51MybCmBohDTxw.jpeg)
 
 *Note: The views expressed on this blog are my personal views and are not the views of Landmark.*

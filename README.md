@@ -10,7 +10,7 @@ This site is a markdown-based wiki powered by [Flowershow 💐](https://flowersh
 
 ## Getting started
 
-- [[Landmark Forum|What is the Landmark Forum?]]
+- [What is the Landmark Forum?](./Landmark%20Forum)
     - [[Is the Landmark Forum any good?]]
     - [[Is Landmark a cult?]]
     - [[Is Landmark a Pyramid or MLM (multi-level marketing scheme)]]
