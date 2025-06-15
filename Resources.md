@@ -4,6 +4,8 @@ Existing websites about est, Werner Erhard, Landmark
 - http://www.erhardseminarstraining.com/ - A history of [[est]]
     - http://www.erhardseminarstraining.com/influence-2/
     - http://www.erhardseminarstraining.com/articles/
-- https://www.wernererhardfoundation.org/
+- https://www.wernererhardfoundation.org/ about the philanthropic work.
 - http://www.wernererhard.com/
 - https://wernererhardideas.com/
+- https://wernererhardvideo.com/ - many excellent videos
+- http://www.laurenceplatt.com/
