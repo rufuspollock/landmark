@@ -34,3 +34,7 @@ Books, articles etc.
 See [[Bibliography]]
 
 - [[Bartley biography]]
+
+## Who's behind this?
+
+This wiki/guide is created and maintained by [Rufus Pollock](https://rufuspollock.com/)
